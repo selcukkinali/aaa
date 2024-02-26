@@ -1,0 +1,10 @@
+
+https://itssmpreprod.thy.com/
+
+önce kendi kullanıcı adı şifen, sonrasında açılan sayfada sırasıyla bunları yap;
+
+m_sahin6
+
+123456
+
+Tenant: PRE_PROD_Teknoloji

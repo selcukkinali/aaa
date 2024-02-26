@@ -1,0 +1,47 @@
+Merhaba, repolar oluşturulmuştur aşağıda linklerini paylaşıyor olacağım. Fakat paylaşılan user'ların ldap userları oluşmamış görünüyor. 
+Ldap user'lar oluştuktan sonra ldap username'lerini iletmeniz durumunda yetkilendirmelrei yapıyor olacağız. User'ları teams'den iletebilirsiniz.
+(Teams: akinali ya da shbbsarica üzerinden bize ulaşabilirsiniz.) (OR-00298496)
+ 
+https://git.thy.com/ocm/tkpay-accounting
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-accounting/browse
+
+https://git.thy.com/ocm/tkpay-campaign
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-campaign/browse
+
+https://git.thy.com/ocm/tkpay-crm-ui
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-crm-ui/browse
+
+https://git.thy.com/ocm/tkpay-exchange
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-exchange/browse
+
+https://git.thy.com/ocm/tkpay-fast
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-fast/browse
+
+https://git.thy.com/ocm/tkpay-identity
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-identity/browse
+
+https://git.thy.com/ocm/tkpay-karekod
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-karekod/browse
+
+https://git.thy.com/ocm/tkpay-otp
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-otp/browse
+
+https://git.thy.com/ocm/tkpay-paranoyak
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-paranoyak/browse
+
+https://git.thy.com/ocm/tkpay-prepaid-card
+https://bitbucket.thy.com/projects/OCEP/repos/tkpay-prepaid-card/browse
+
+
+Ad-Soyad	TC kimlik	Cep Telefonu	Mail Adresi
+ 	 	 	 
+Semih Enver TURAN	23155625706	5330124135	semih@valensas.com
+Özlem Toru	15151375020	530 976 74 98	ozlem@valensas.com
+Moray Baruh	12350499700	537 399 75 02	moray@valensas.com
+Barış Özkamalı	47983034110	5306911109	baris.ozkamali@valensas.com
+Ayşe Rabia Akgün	16261377744	5537233481	ayse@valensas.com
+Can Taylan Çapraz	36673751772	553 988 64 26	taylan@valensas.com
+Doğancan Heperler	42664018854	537 543 8055	dogancan@valensas.com
+Emre Özger	61321059344	0506 647 64 66	emre.ozger@valensas.com
+Onur Ak	10388730314	5364699158	onur@valensas.com
+Okan Okumuşoğlu	10784810740 0531 920 3454	okan.okumusoglu@valensas.com

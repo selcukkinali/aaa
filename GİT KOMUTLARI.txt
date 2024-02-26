@@ -1,0 +1,16 @@
+cd existing-project
+git init
+git add --all
+git commit -m "Initial Commit"
+git remote add origin https://bitbuckettest.thy.com/scm/zsel/selcuk-test.git
+git push -u origin HEAD:master
+
+committen sonra;
+git push  ile bitbucket'a pushlarız.
+
+git add komutundan sonra;
+opsiyonel olarak "git status" ile kontrol edebiliriz.
+
+"git pull" ile bitbucket repomuzdaki değişiklikleri locale çekebiliriz.
+
+branch değişimi için master'da ise " git checkout develop" 
